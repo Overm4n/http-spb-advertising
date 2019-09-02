@@ -118,7 +118,7 @@ body{
     justify-content: center;
     width: 100%;
     height: 600px;
-    background: url(image/noj.webp) no-repeat;
+    background: url(image/noj.jpg) no-repeat;
     background-attachment: fixed;
     position: absolute;
     top: 0;
@@ -140,7 +140,7 @@ body{
     justify-content: center;
     width: 100%;
     height: 600px;
-    background: url(image/girl.webp) no-repeat;
+    background: url(image/girl.jpg) no-repeat;
     background-attachment: fixed;
     position: absolute;
     top: 0;
